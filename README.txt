@@ -1,6 +1,3 @@
-VMwareAppDir
-============
-
 Demostration of SpringIntegraionSamples on VMware Application Directory
 =======================================================================
 
@@ -62,4 +59,3 @@ Reusable Artifacts in Catalog
 - Tasks
 	- Tomcat_Users
 	- ConsoleAccess
-
